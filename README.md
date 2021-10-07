@@ -3,6 +3,7 @@
 This demo project is based on the Memento design pattern, as explained in the following links:
 
 [1] https://www.tutorialspoint.com/design_pattern/memento_pattern.htm
+
 [2] https://en.wikipedia.org/wiki/Memento_pattern
 
 Basic implementation:
